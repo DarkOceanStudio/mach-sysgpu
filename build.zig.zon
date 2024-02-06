@@ -17,10 +17,10 @@
             .url = "https://pkg.machengine.org/vulkan-zig-generated/378bed4e37007cef95b46ad9fadd6e192827ebba.tar.gz",
             .hash = "1220ccb48181cb849b64363142b78182161b3662959d81a2463df009612011fa5043",
         },
-        .mach_gpu = .{
-            .url = "https://pkg.machengine.org/mach-gpu/7f6792dbc5cd41da5f54b322b6d5be79d6dda2f1.tar.gz",
-            .hash = "122044bcebd28b7d54fb40cbebc04ef6bab0a385952e3193bcf90b37e062ce382495",
-        },
+        //.mach_gpu = .{
+        //    .url = "https://pkg.machengine.org/mach-gpu/7f6792dbc5cd41da5f54b322b6d5be79d6dda2f1.tar.gz",
+        //    .hash = "122044bcebd28b7d54fb40cbebc04ef6bab0a385952e3193bcf90b37e062ce382495",
+        //},
         .mach_objc = .{
             .url = "https://pkg.machengine.org/mach-objc/2b2a698e7f019e1599edb3eda4a974fa1fb07483.tar.gz",
             .hash = "1220d708af437c2076d1a0482ac745b3c4507f4f41cc9f248ee78a3c297c41ee7c33",
